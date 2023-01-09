@@ -25,7 +25,7 @@
 .i-name>:nth-child(2){
     font-size: 3rem;
     font-weight: bold;
-    color: var(--orange)
+    color: var(--orange);
 }
 
 .i-name>:nth-child(3){
