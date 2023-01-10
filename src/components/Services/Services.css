@@ -1,5 +1,5 @@
 .s-wrapper {
-    height: 70vh;
+    height: 30rem;
     display: flex;
 }
 
@@ -40,4 +40,12 @@
 .s-right {
     flex: 1;
     display: flex;
+}
+
+.s-right {
+    position: relative;
+}
+
+.s-right > * {
+position: absolute;
 }
